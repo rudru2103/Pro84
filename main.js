@@ -6,7 +6,7 @@ img_height = 100;
 
 var img_image;
 
-img_x = 100
+img_x = 100;
 img_y = 100;
 
 function add() {
